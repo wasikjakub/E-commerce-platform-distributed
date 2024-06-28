@@ -30,6 +30,10 @@ You can also go to the "Organizations" tab on my GitHub profile.
 
 ![image](https://github.com/wasikjakub/E-commerce-platform-distributed/assets/144064944/aa076c25-2958-4c02-a9f9-ac7f346dab83)
 
+### Login
+
+![image](https://github.com/wasikjakub/E-commerce-platform-distributed/assets/144064944/c42946fe-b509-4a78-a34e-3aac68a9aa4d)
+
 ### Admin 
 
 ![image](https://github.com/wasikjakub/E-commerce-platform-distributed/assets/144064944/2c7c352b-f914-4e34-ad11-9fc412f48f41)
